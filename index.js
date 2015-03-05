@@ -2,5 +2,10 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-cli-clean'
+  name: 'ember-cli-clean',
+  includedCommands: function() {
+    return {
+      'clean': require('./lib/command')
+    }
+  }
 };
