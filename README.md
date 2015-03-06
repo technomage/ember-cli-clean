@@ -1,25 +1,17 @@
 # Ember-cli-clean
 
-This README outlines the details of collaborating on this Ember addon.
+This is an Ember CLI add on that cleans project dependencies and reinstalls.
 
 ## Installation
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+* `ember install:addon ember-cli-clean`
 
 ## Running
 
-* `ember server`
-* Visit your app at http://localhost:4200.
+* `ember clean`
 
 ## Running Tests
 
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
+* `npm test` from a clone of the repository.
 
 For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).

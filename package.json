@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-clean",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.5.1",
+  "description": "Ember-CLI addon to clean up the project dependencies and re-install them.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,11 +11,11 @@
     "build": "ember build",
     "test": "ember test"
   },
-  "repository": "",
+  "repository": "https://github.com/technomage/ember-cli-clean.git",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Michael Latta (@Techno_Mage)",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.0",
