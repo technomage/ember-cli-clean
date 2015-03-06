@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-clean",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "Ember-CLI addon to clean up the project dependencies and re-install them.",
   "directories": {
     "doc": "doc",
